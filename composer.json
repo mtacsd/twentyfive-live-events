@@ -1,0 +1,14 @@
+{
+    "name": "mta/twenty_five_live_events",
+    "description": "Drupal module to retrieve events from 25Live",
+    "type": "project",
+    "require": {
+        "symfony/http-client": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "Jordon Davidson",
+            "email": "jodavidson@mta.ca"
+        }
+    ]
+}

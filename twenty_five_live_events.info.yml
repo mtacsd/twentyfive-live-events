@@ -1,0 +1,6 @@
+name: 25 Live Events
+type: module
+description: Connector to pull live event data from 25Live
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
